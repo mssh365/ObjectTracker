@@ -1,1 +1,1 @@
-# TheyChat
+基于C#winform和mysql实现的简易Socket通讯软件
